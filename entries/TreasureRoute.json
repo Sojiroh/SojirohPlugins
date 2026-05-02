@@ -8,11 +8,11 @@
   "DalamudApiLevel": 15,
   "Punchline": "Plans the optimal treasure-map route for your party.",
   "Description": "Listens for treasure-map coordinates posted in party chat, groups them by zone, and shows the shortest aetheryte-rooted route per map. Use /troute to open the window.",
-  "IsHide": true,
+  "IsHide": false,
   "IsTestingExclusive": false,
   "DownloadLinkInstall": "https://github.com/Sojiroh/TreasureRoute/releases/download/v0.1.0.1/TreasureRoute.zip",
   "DownloadLinkUpdate": "https://github.com/Sojiroh/TreasureRoute/releases/download/v0.1.0.1/TreasureRoute.zip",
-  "LastUpdate": 1777680000,
+  "LastUpdate": 1777754889,
   "Tags": [
     "treasure",
     "map",
