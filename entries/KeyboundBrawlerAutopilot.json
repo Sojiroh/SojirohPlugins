@@ -1,0 +1,27 @@
+{
+  "Author": "Sojiroh",
+  "Name": "Keybound Brawler Autopilot",
+  "InternalName": "KeyboundBrawlerAutopilot",
+  "AssemblyVersion": "1.5.2.0",
+  "RepoUrl": "https://github.com/Sojiroh/FFXIV-KeyboundBrawlerAutopilot",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Punchline": "Keybound Brawler, typed for you.",
+  "Description": "Plays Keybound Brawler's typing for you: reads the phrases above the enemies, sends the most urgent one in after as long as typing it would take, or types it into the input bar, with adjustable speed and a humanizer. Based on Auto Keybound Brawler by XeldarAlz.",
+  "IconUrl": "https://raw.githubusercontent.com/Sojiroh/FFXIV-KeyboundBrawlerAutopilot/master/AutoKeyboundBrawler/Images/Icon.png",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkInstall": "https://github.com/Sojiroh/FFXIV-KeyboundBrawlerAutopilot/releases/download/v1.5.2.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/Sojiroh/FFXIV-KeyboundBrawlerAutopilot/releases/download/v1.5.2.0/latest.zip",
+  "DownloadCount": 0,
+  "LastUpdate": 1793554265,
+  "Tags": [
+    "Keybound Brawler",
+    "Gold Saucer",
+    "Typing",
+    "Automation"
+  ],
+  "CategoryTags": [
+    "minigames"
+  ]
+}
