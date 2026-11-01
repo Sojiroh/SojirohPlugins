@@ -1,0 +1,28 @@
+{
+  "Author": "Sojiroh",
+  "Name": "Mahjong Autopilot",
+  "InternalName": "MahjongAutopilot",
+  "AssemblyVersion": "0.2.0.0",
+  "RepoUrl": "https://github.com/Sojiroh/FFXIV-MahjongAutopilot",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Punchline": "Doman Mahjong, played for you.",
+  "Description": "Reads Doman Mahjong, computes the best discard and call, shows a suggestion overlay, and can play for you. Based on Auto Mahjong Solver by XeldarAlz.",
+  "IconUrl": "https://raw.githubusercontent.com/Sojiroh/FFXIV-MahjongAutopilot/master/AutoMahjongSolver/Images/Icon.png",
+  "IsHide": false,
+  "IsTestingExclusive": false,
+  "DownloadLinkInstall": "https://github.com/Sojiroh/FFXIV-MahjongAutopilot/releases/download/v0.2.0.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/Sojiroh/FFXIV-MahjongAutopilot/releases/download/v0.2.0.0/latest.zip",
+  "DownloadCount": 0,
+  "LastUpdate": 1793573341,
+  "Tags": [
+    "Mahjong",
+    "Doman Mahjong",
+    "Gold Saucer",
+    "Solver",
+    "Automation"
+  ],
+  "CategoryTags": [
+    "minigames"
+  ]
+}
