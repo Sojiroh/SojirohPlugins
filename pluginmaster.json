@@ -1,6 +1,37 @@
 [
   {
     "Author": "Sojiroh",
+    "Name": "PVP Series Autopilot",
+    "InternalName": "PvpSeriesAutopilot",
+    "AssemblyVersion": "2.13.1.0",
+    "RepoUrl": "https://github.com/Sojiroh/FFXIV-PVPSeriesAutopilot",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "PvP Series, grinded for you.",
+    "Description": "Grinds PvP Series Malmstones in Crystalline Conflict Casual or Ranked Matches, or Frontline, with preview infantry support for Rival Wings (Hidden Gorge). Queues and plays until your goal is met. Based on Auto PVP Series Grind by XeldarAlz.",
+    "IconUrl": "https://raw.githubusercontent.com/Sojiroh/FFXIV-PVPSeriesAutopilot/master/AutoPvpSeriesGrind/Images/Icon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Sojiroh/FFXIV-PVPSeriesAutopilot/releases/download/v2.13.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Sojiroh/FFXIV-PVPSeriesAutopilot/releases/download/v2.13.1.0/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1793552109,
+    "Tags": [
+      "PVP",
+      "Crystalline Conflict",
+      "Series Malmstones",
+      "Casual Match",
+      "Ranked Match",
+      "Frontline",
+      "Rival Wings",
+      "Automation"
+    ],
+    "CategoryTags": [
+      "utility"
+    ]
+  },
+  {
+    "Author": "Sojiroh",
     "Name": "Treasure Route",
     "InternalName": "TreasureRoute",
     "AssemblyVersion": "0.1.0.4",
